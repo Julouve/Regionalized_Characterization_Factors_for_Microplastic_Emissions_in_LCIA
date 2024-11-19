@@ -5,7 +5,7 @@ This script can be used to calculate <B>Characterization Factors</B> (CFs) for m
 <br>
 This script is divided into several parts: <br>
 <ul>
-<li>Calculation of Fate Factors with a Fate Model adapted from SimpleBox4Plastic : https://doi.org/10.5281/zenodo.5743268  </li>
+<li>Calculation of Fate Factors with a Fate Model adapted from SimpleBox4Plastic: https://doi.org/10.5281/zenodo.5743268  </li>
 <li>Implementation of Exposure and Effect Factors for the aquatic, sedimentary and terrestrial species</li>
 <li>Calculation of Characterization Factors based on 2 approaches:</li>
   <ul>

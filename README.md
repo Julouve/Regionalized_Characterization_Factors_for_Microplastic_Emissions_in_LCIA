@@ -13,7 +13,6 @@ This script is divided into several parts: <br>
   <li>a <I>species</I> approach quantifying the fraction of species lost in one of the three major ecosystems (marine, freshwater, terrestrial) in PAF*year/kg (midpoint level), PDF*year/kg (endpoint level) and species*year/kg (endpoint level)</li>
 </ul>
 </ul>
-<br>
 Characterisation factors can be calculated for: 
 <ul>
 <li>14 polymers: EPS, PP, LDPE, HDPE, PS, PHA, PA, PLA, starch blend, PBAT, PET, PVC, TRWP</li>
